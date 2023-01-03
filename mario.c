@@ -1,3 +1,5 @@
+/* Mario (versão fácil) CS50 harvard.edu  */
+
 #include <stdio.h>
 
 int main(void)
