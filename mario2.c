@@ -1,3 +1,5 @@
+/* Second version of the Mario code that change the pyramid to greater, made in CS50*/
+
 #include <stdio.h>
 #include <cs50.h>
 
