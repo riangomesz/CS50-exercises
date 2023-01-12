@@ -1,4 +1,4 @@
-/* Fourth exercise that calculates the change based on the value stipulated in the program */
+/* Fourth exercise that calculates the change based on the value stipulated in the program who can be in quarters, dimes, nickels and pennies  */
 
 #include <cs50.h>
 #include <stdio.h>
