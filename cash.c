@@ -1,3 +1,5 @@
+/* Exercise Four that calculates the change based on the value stipulated in the program */
+
 #include <cs50.h>
 #include <stdio.h>
 
