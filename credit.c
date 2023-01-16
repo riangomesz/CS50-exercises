@@ -1,3 +1,5 @@
+/* Algoritmo que a partir de seus cálculos diz ao usuário que o número digitado é do cartão "MasterCard" ou "AmericaExpress" com base na lógica escrita*/
+
 #include <stdio.h>
 #include <cs50.h>
 
