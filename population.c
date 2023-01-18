@@ -1,4 +1,4 @@
-/* Activity population of lhamas 
+/* Activity population of lhamas in CS50 course, 
 
 #include <cs50.h>
 #include <stdio.h>
