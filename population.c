@@ -1,4 +1,4 @@
-/* Llama population exercise from the CS50 course, written in C */
+/* Llama population exercise from the CS50 course, writed in C */
 
 #include <cs50.h>
 #include <stdio.h>
