@@ -1,3 +1,7 @@
+/*
+Programa feito em linguagem C  
+*/
+
 #include <cs50.h>
 #include <stdio.h>
 
