@@ -1,5 +1,6 @@
 /*
-Programa feito em linguagem C  
+Programa feito em linguagem C 
+Para calcular médias utilizando Arrays
 */
 
 #include <cs50.h>
