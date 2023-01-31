@@ -1,5 +1,5 @@
 /*
-Programa feito em C que recebe um String e logo depois retorna 
+Programa feito em C que recebe uma String e logo depois retorna a mesma String em formato "upper". Ou seja em letras maíusculas
 */
 
 #include <stdio.h>
