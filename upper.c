@@ -1,3 +1,7 @@
+/*
+Programa feito em C que recebe um String e logo depois retorna 
+*/
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
