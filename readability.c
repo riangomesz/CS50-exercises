@@ -1,3 +1,5 @@
+/* Readability exercise whose objective is to categorize the level necessary to understand the text typed by the user */
+
 #include <stdio.h>
 #include <cs50.h>
 #include <ctype.h>
