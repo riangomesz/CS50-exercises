@@ -1,4 +1,11 @@
-/* ************************************* */
+/* Caesar's encryption algorithm. This is cryptographic messages by rotating each letter in k positions
+   Example: 
+plaintext: A B C D E F
+key: 3 
+ciphertext: D E F G H I    
+    
+ 
+*/
 
 #include <stdio.h>
 #include <cs50.h>
