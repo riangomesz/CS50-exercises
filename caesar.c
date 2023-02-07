@@ -3,8 +3,6 @@
 plaintext: A B C D E F
 key: 3 
 ciphertext: D E F G H I    
-    
- 
 */
 
 #include <stdio.h>
