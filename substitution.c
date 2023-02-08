@@ -1,4 +1,9 @@
-/* ****** */
+/* Substitution Challenge CS50. In a substitution cipher. We encrypt a message by replacing each letter with another. 
+Example: 
+$ ./substitution VCHPRZGJNTLSKFBDQWAXEUYMOI --> new aplhabet
+plaintext: hello, world
+ciphertext: jrssb, ybwsp
+*/
 
 #include <stdio.h>
 #include <cs50.h>
