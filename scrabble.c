@@ -5,6 +5,7 @@ A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z
 Example: Player One types the word "code" making 7 points
          Player Two types the word "science" making 1 + 3 + 1 + 1 + 1 + 3 + 1 = 11 points 
                                                     s   c   i   e   n   c   e   
+Resulting in Player Two winning because he scored more points
 */
 
 #include <ctype.h>
