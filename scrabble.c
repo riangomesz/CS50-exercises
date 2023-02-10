@@ -1,4 +1,11 @@
-/* In the Scrabble game, players create words to score points, and the number of points is the sum of the point values of each letter in the word. */
+/* 
+In the Scrabble game, players create words to score points, and the number of points is the sum of the point values of each letter in the word. 
+A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z
+1	3	3	2	1	4	2	4	1	8	5	1	3	1	1	3	10	1	1	1	1	4	4	8	4	10
+Example: Player One types the word "code" making 7 points
+         Player Two types the word "science" making 1 + 3 + 1 + 1 + 1 + 3 + 1 = 11 points 
+                                                    s   c   i   e   n   c   e   
+*/
 
 #include <ctype.h>
 #include <cs50.h>
