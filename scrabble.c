@@ -1,3 +1,5 @@
+/* In the Scrabble game, players create words to score points, and the number of points is the sum of the point values of each letter in the word. */
+
 #include <ctype.h>
 #include <cs50.h>
 #include <stdio.h>
