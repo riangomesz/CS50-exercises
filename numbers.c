@@ -1,4 +1,5 @@
-/* Algorithm that traverses an Array in search of a  */
+/* Algorithm that traverses an Array in search of a requested number. 
+If it finds it, it will tell the user "Found" otherwise "Not found" */
 
 #include <cs50.h>
 #include <stdio.h>
