@@ -1,3 +1,5 @@
+/* Algorithm that traverses an Array in search of a  */
+
 #include <cs50.h>
 #include <stdio.h>
 
