@@ -1,3 +1,15 @@
+/* 
+Algorithm that performs an election system through votes that the user will provide
+Usage Example: ./plurality candidate1 candidate2 candidate3 candidate4
+                Number of voters: 5
+                Vote: candidate1
+                Vote: candidate1
+                Vote: candidate2 
+                Vote: candidate3
+                Vote: candidate4
+                
+*/
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
