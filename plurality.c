@@ -60,6 +60,7 @@ int main(int argc, string argv[])
     }
 
     // Display winner of election
+    printf("The Winner is");
     print_winner();
 }
 
