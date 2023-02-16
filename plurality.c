@@ -7,7 +7,7 @@ Usage Example: ./plurality candidate1 candidate2 candidate3 candidate4
                 Vote: candidate2 
                 Vote: candidate3
                 Vote: candidate4
-                
+                The Winner is candidate1
 */
 
 #include <cs50.h>
