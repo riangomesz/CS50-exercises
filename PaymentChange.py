@@ -18,3 +18,6 @@ def calculate_coins(change):
             result.append(f"{num_coins[i]} {coin_values[i]}")
     
     return result
+change = 2.35
+coin_count = calculate_coins(change)
+print(coin_count) 
