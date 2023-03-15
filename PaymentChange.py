@@ -20,4 +20,6 @@ def calculate_coins(change):
     return result
 change = 2.35
 coin_count = calculate_coins(change)
-print(coin_count) 
+print(coin_count) # ['1 5 cents', '1 10 cents', '1 25 cents', '1 50 cents', '2 1 dollar']
+
+
