@@ -1,3 +1,5 @@
+// Runoff activity from CS50 week 3
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
