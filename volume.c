@@ -1,3 +1,5 @@
+/* Volume.c Activity from CS50 week 4 */ 
+
 // Modifies the volume of an audio file
 
 #include <stdint.h>
