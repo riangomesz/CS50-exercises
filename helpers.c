@@ -1,3 +1,5 @@
+/* Filter Less Activity from CS50 week 4 */
+
 #include "helpers.h"
 #include <math.h>
 
