@@ -1,3 +1,5 @@
+#cs50 activity tournament.py from world-cup activity
+
 # Simulate a sports tournament
 
 import csv
